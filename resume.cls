@@ -811,13 +811,13 @@
 %           and res.cls class by Michael DeCorte.
 %           I have merged these for educational purposes only.
 
-\oddsidemargin -16mm
-\evensidemargin -16mm
+\oddsidemargin -11mm
+\evensidemargin -11mm
 %\textwidth=150mm
-\textwidth=166mm
+\textwidth=154mm
 \itemsep=0cm
 \parsep=0cm
-\topmargin -16mm
+\topmargin -12mm
 %\textheight 265mm
 \textheight 275mm
 
